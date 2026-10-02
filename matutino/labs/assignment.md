@@ -1,29 +1,6 @@
 # Assignment
 
-Os exercícios serão entregues neste repositório! Para organizar as entregas, cada aluno deverá criar uma pasta dentro de `lab/`:
-
-```
-lab/
-├── 1 - Nome Sobrenome/
-│ ├── respostas.md
-│ └── code/
-    ├── Ex15.java
-    ├── Ex16.java
-    └── ...
-├── 2 - Jess Forster/ (exemplo)
-│ ├── respostas.md
-│ └── code/
-    ├── Ex15.java
-    ├── Ex16.java
-    └── ...
-└── ...
-```
-
-O número da pasta está correspondente à ordem de entrega dos alunos.
-
-A entrega será feita com Git! Se você não sabe usar Git ainda, leia o material da [Oficina de Git](https://github.com/monitoria-ti-ceub/Git/tree/main/noturno/aulas).
-
-## Aula 
+## Aula I
 
 1. Qual é a diferença entre problema computacional, algoritmo e código-fonte?
 
