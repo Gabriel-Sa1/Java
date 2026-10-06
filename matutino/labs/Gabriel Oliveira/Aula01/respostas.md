@@ -3,7 +3,7 @@ Algorito é uma sequencias de instrucoes de forma que fique linear.
 Codigo-Fonte é o conjunto de intruções implementado em uma linguagem(algoritimo aplicado a uma linguagem).
 
 R2: 
-Javac Transformar um arquivo .Java em um bytecode bem dificil e entender.
+Javac Transforma um arquivo .Java em um bytecode bem dificil e entender.
 JVM compila o bytecode em linguagem de maquina.
 
 R3: É um start do progama, onde o codigo principal vai estar alocado.
