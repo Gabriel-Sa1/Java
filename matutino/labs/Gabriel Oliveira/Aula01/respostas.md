@@ -1,22 +1,21 @@
-R1: Um problema computacional é algo a ser resolivdo com um computador tipo ordeanar uma lista. 
-Algorito é uma sequencias de instrucoes de forma que fique linear.
-Codigo-Fonte é o conjunto de intruções implementado em uma linguagem(algoritimo aplicado a uma linguagem).
+R1: Um problema computacional é algo a ser resolvido com um computador, tipo ordenar uma lista. 
+Algoritmo é uma sequência de instruções de forma que fique linear.
+Código-Fonte é o conjunto de instruções implementado em uma linguagem (algoritmo aplicado a uma linguagem).
 
-R2: 
-Javac Transforma um arquivo .Java em um bytecode bem dificil e entender.
-JVM compila o bytecode em linguagem de maquina.
+R2: Javac transforma um arquivo .java em um bytecode bem difícil de entender.
+JVM compila o bytecode em linguagem de máquina.
 
-R3: É um start do progama, onde o codigo principal vai estar alocado.
+R3: É o start do programa, onde o código principal vai estar alocado.
 
-R4: .java, javaC, .class, JVM e progama em execução
+R4: .java, javac, .class, JVM e programa em execução.
 
-R5: int a; é declarar um int e nao dar valor(inicializar) agr se fosse inta a = 5; ela teria sido inicialziada.
+R5: int a; é declarar um int e não dar valor (inicializar). Agora se fosse int a = 5;, ela teria sido inicializada.
 
 R6: Java é de tipagem forte porque exige definir o tipo exato de cada variável e impede misturar tipos incompatíveis. Na prática, você é obrigado a declarar o tipo (como int ou String) e o código não compila se tentar guardar o valor errado.
 
-R7:String, float, char, String e String.
+R7: String, float, char, String e String.
 
-R8: "S" esta sobre aspas duplas, deveria ta em aspas simples.
+R8: "S" está sobre aspas duplas, deveria estar em aspas simples.
 
 9. Qual é a saída do código?
 
