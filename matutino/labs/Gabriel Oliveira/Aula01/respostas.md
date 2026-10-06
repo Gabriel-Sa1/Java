@@ -77,7 +77,8 @@ R14: X: 20, Y: 10
 
 
 15. Crie `OlaCurso.java`, com classe pública `OlaCurso` e exiba o nome do curso em duas linhas.
-R15:public class OlaCurso {
+R15:
+public class OlaCurso {
     public static void main(String[] args){
         System.out.println("Monitoria");
         System.out.println("Java");
@@ -85,7 +86,7 @@ R15:public class OlaCurso {
 }
 
 
-16. Escreva um programa que declare nome, semestre e status de matrícula e exiba os dados com `printf`.
+17. Escreva um programa que declare nome, semestre e status de matrícula e exiba os dados com `printf`.
 R16:
 public class exec16 {
     public static void main(String[] args){
@@ -98,7 +99,7 @@ public class exec16 {
 }
 
 
-17. Escreva um cartão de produto com descrição, código inteiro, preço, categoria e disponibilidade.
+18. Escreva um cartão de produto com descrição, código inteiro, preço, categoria e disponibilidade.
 R17:
 import java.util.Scanner;
 public class exec17 {
@@ -129,7 +130,7 @@ public class exec17 {
 }
 
 
-18. Escreva um programa que leia dois números inteiros do usuário e exiba a soma, subtração e multiplicação entre eles.
+19. Escreva um programa que leia dois números inteiros do usuário e exiba a soma, subtração e multiplicação entre eles.
 R18:
 import java.util.Scanner;
 public class exec18 {
@@ -146,7 +147,7 @@ public class exec18 {
     }
 }
 
-19. Escreva um programa que leia o ano de nascimento de um usuário e o ano atual, calcula a idade aproximada da pessoa (sem considerar o mês)
+20. Escreva um programa que leia o ano de nascimento de um usuário e o ano atual, calcula a idade aproximada da pessoa (sem considerar o mês)
 R19:
 import java.util.Scanner;
 public class exec19 {
@@ -161,7 +162,7 @@ public class exec19 {
     }
 }
 
-20. Declare uma constante para o valor de PI. Leia o raio de um círculo e calcule a área.
+21. Declare uma constante para o valor de PI. Leia o raio de um círculo e calcule a área.
 import java.util.Scanner;
 public class exec20 {
     public static void main(String[] args){
@@ -176,7 +177,7 @@ public class exec20 {
     }
 }
 
-21. Escreva um programa que leia um número inteiro e exiba se o valor é maior que 100.
+22. Escreva um programa que leia um número inteiro e exiba se o valor é maior que 100.
 R21:
 import java.util.Scanner;
 public class exec21 {
@@ -194,7 +195,7 @@ public class exec21 {
 }
 
 
-22. Leia uma temperatura em °C (Celsius) e converta para °F (Fahrenheit).
+23. Leia uma temperatura em °C (Celsius) e converta para °F (Fahrenheit).
 R22:
 import java.util.Scanner;
 public class exec22 {
@@ -207,7 +208,7 @@ public class exec22 {
 }
 
 
-23. Leia três notas de um aluno e seus respectivos pesos. Calcule e exiba a média ponderada.
+24. Leia três notas de um aluno e seus respectivos pesos. Calcule e exiba a média ponderada.
 R23:
 import java.util.Scanner;
 public class exec23 {
@@ -235,7 +236,7 @@ public class exec23 {
 }
 
 
-24. Leia um valor inteiro em reais que um usuário deseja sacar. Supondo que o caixa só tem notas de R$50, exiba quantas notas ele receberá e qual é o valor do "troco" que não pode ser sacado.
+25. Leia um valor inteiro em reais que um usuário deseja sacar. Supondo que o caixa só tem notas de R$50, exiba quantas notas ele receberá e qual é o valor do "troco" que não pode ser sacado.
 R24:
 import java.util.Scanner;
 public class exec24 {
@@ -257,7 +258,7 @@ public class exec24 {
 }
 
 
-25. Leia uma temperatura e armazene em três variáveis (booleanas) se `temperatura < 0`, `temperatura == 0` e `temperatura > 30`. Exiba os dados. Não use `if`.
+26. Leia uma temperatura e armazene em três variáveis (booleanas) se `temperatura < 0`, `temperatura == 0` e `temperatura > 30`. Exiba os dados. Não use `if`.
 R25:
 import java.util.Scanner;
 public class exec25 {
@@ -279,7 +280,7 @@ public class exec25 {
     }
 }
 
-26. Leia um número inteiro representando uma quantidade total de segundos. Converta esse valor para horas, minutos e segundos.
+27. Leia um número inteiro representando uma quantidade total de segundos. Converta esse valor para horas, minutos e segundos.
 R26:
 import java.util.Scanner;
 public class exec26 {
@@ -308,7 +309,7 @@ public class exec26 {
     }
 }
 
-27. Leia um número inteiro de dois dígitos. Extraia a dezena e a unidade e exiba o número invertido.
+28. Leia um número inteiro de dois dígitos. Extraia a dezena e a unidade e exiba o número invertido.
 R27:
 import java.util.Scanner;
 public class exec27 {
@@ -337,7 +338,7 @@ public class exec27 {
     }
 }
 
-28. Identifique o erro, explique o motivo e reescreva o código com a correção.
+29. Identifique o erro, explique o motivo e reescreva o código com a correção.
 
     ```java
     // o objetivo é calcular a porcentagem de aprovação
