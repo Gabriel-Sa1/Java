@@ -1,30 +1,30 @@
 1. Qual é a diferença entre problema computacional, algoritmo e código-fonte?
-R1: Um problema computacional é algo a ser resolivdo com um computador tipo ordeanar uma lista. 
-Algorito é uma sequencias de instrucoes de forma que fique linear.
-Codigo-Fonte é o conjunto de intruções implementado em uma linguagem(algoritimo aplicado a uma linguagem).
+    R1: Um problema computacional é algo a ser resolivdo com um computador tipo ordeanar uma lista. 
+    Algorito é uma sequencias de instrucoes de forma que fique linear.
+    Codigo-Fonte é o conjunto de intruções implementado em uma linguagem(algoritimo aplicado a uma linguagem).
 
 2. Qual é o papel do compilador (javac) e da Máquina Virtual Java (JVM) na execução de um programa em Java?
-R2: 
-Javac Transformar um arquivo .Java em um bytecode bem dificil e entender.
-JVM compila o bytecode em linguagem de maquina.
+    R2: 
+    Javac Transformar um arquivo .Java em um bytecode bem dificil e entender.
+    JVM compila o bytecode em linguagem de maquina.
 
 3. Qual é o propósito do método `main` em Java?
-R3: É um start do progama, onde o codigo principal vai estar alocado.
+    R3: É um start do progama, onde o codigo principal vai estar alocado.
 
 4. Ordene: JVM, arquivo `.class`, `javac`, arquivo `.java`, programa em execução.
-R4: .java, javaC, .class, JVM e progama em execução
+    R4: .java, javaC, .class, JVM e progama em execução
 
 5. Qual é a diferença entre declarar e inicializar uma variável?
-R5: int a; é declarar um int e nao dar valor(inicializar) agr se fosse inta a = 5; ela teria sido inicialziada.
+    R5: int a; é declarar um int e nao dar valor(inicializar) agr se fosse inta a = 5; ela teria sido inicialziada.
 
 6. Por que Java é considerada uma linguagem "de tipagem forte"? Que diferença há na prática ao criar variáveis?
-R6: 
+    R6: 
 
 7. Defina o tipo de variável para: idade, altura, letra da turma, nome completo e status de matrícula.
-R7:String, float, char, String e String.
+    R7:String, float, char, String e String.
 
 8. Explique porquê `char resposta = "S";` não compila e apresente duas correções.
-R9: "S" esta sobre aspas duplas, deveria ta em aspas simples.
+    R9: "S" esta sobre aspas duplas, deveria ta em aspas simples.
 
 9. Qual é a saída do código?
 
